@@ -1,3 +1,5 @@
 # sqlserver
 
-t-sql projects and scripts
+t-sql projects and scripts.
+
+includes other things too.
